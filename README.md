@@ -4,6 +4,6 @@ MiniCoal is a simple Minecraft mod based on Fabric providing Mini Coals and Char
 
 ## Screenshots
 
-![Fuel](https://github.com/mkpoli/MiniCoal/blob/master/screenshots/fuel.png?raw=true)
+![Fuel](https://github.com/mkpoli/MiniCoal/blob/1.15.x-Fabric/screenshots/fuel.png?raw=true)
 
-![Recipe](https://github.com/mkpoli/MiniCoal/blob/master/screenshots/recipe.png?raw=true)
+![Recipe](https://github.com/mkpoli/MiniCoal/blob/1.15.x-Fabric/screenshots/recipe.png?raw=true)
